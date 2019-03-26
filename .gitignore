@@ -1,9 +1,1 @@
-*.zip
-*.core
-*.BAK
-*.del
-a.out
 *log.txt
-nanologger
-nanoclient
-tmp/
